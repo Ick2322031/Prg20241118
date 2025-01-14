@@ -4,20 +4,20 @@ body{
 }
 
 h1{
-    font-size: large;
-    font-weight: bold;
+    
     color:blue;
+    background-color: aliceblue;
 
 }
 
-h2{
+h2 {
     color:cadetblue;
     background-color: azure;
 
 
 }
 
-h3{
+h3 {
     color:cadetblue;
     background-color: azure;
 
