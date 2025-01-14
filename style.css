@@ -1,4 +1,7 @@
-
+body{
+    font-weight: blder;
+    font-family: system-ui;
+}
 h1{
     font-size: large;
     font-weight: bold;
